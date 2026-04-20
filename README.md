@@ -1,4 +1,4 @@
-# 🗄️ SQL Database Specialist | Projetos Práticos
+# SQL Database Specialist | Projetos Práticos
 
 Repositório desenvolvido durante o curso **SQL Database Specialist** da DIO (Digital Innovation One), com foco na construção prática de bancos de dados relacionais aplicados a cenários reais.
 
@@ -6,7 +6,7 @@ Ao invés de apenas acompanhar os módulos, este repositório apresenta **7 proj
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Desenvolver habilidades em banco de dados através de projetos práticos, incluindo:
 
@@ -18,7 +18,7 @@ Desenvolver habilidades em banco de dados através de projetos práticos, inclui
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - SQL  
 - SQLite  
@@ -26,70 +26,19 @@ Desenvolver habilidades em banco de dados através de projetos práticos, inclui
 
 ---
 
-## 📂 Projetos Desenvolvidos
+## Projetos a serem desenvolvidos
 
-### 📌 Projeto 1 — Fundamentos de Banco de Dados
-- Criação de tabelas básicas
-- Tipos de dados
-- Inserção de dados
-
----
-
-### 📌 Projeto 2 — Modelagem de Dados (DER)
-- Modelo Entidade-Relacionamento
-- Identificação de entidades e atributos
-- Relacionamentos (1:N, N:N)
+### Projeto 1 — Fundamentos de Banco de Dados
+### Projeto 2 — Modelagem de Dados (DER)
+### Projeto 3 — Banco de Dados de E-commerce
+### Projeto 4 — Consultas SQL
+### Projeto 5 — Consultas Avançadas
+### Projeto 6 — MySQL na Prática
+### Projeto 7 — Transações e Controle
 
 ---
 
-### 📌 Projeto 3 — Banco de Dados de E-commerce
-- Estrutura completa de um sistema de vendas
-- Tabelas: clientes, produtos, pedidos, pagamentos
-- Relacionamentos reais de negócio
-
----
-
-### 📌 Projeto 4 — Consultas SQL
-- SELECT, WHERE, JOIN
-- Filtros e ordenações
-- Consultas em múltiplas tabelas
-
----
-
-### 📌 Projeto 5 — Consultas Avançadas
-- GROUP BY
-- HAVING
-- Funções agregadas
-- Subqueries
-
----
-
-### 📌 Projeto 6 — MySQL na Prática
-- Criação de banco em MySQL
-- Scripts de estrutura
-- Inserção de dados
-
----
-
-### 📌 Projeto 7 — Transações e Controle
-- Controle de transações
-- COMMIT e ROLLBACK
-- Integridade dos dados
-
----
-
-## 📊 Exemplos de Análises
-
-Algumas queries desenvolvidas nos projetos:
-
-- Produtos mais vendidos  
-- Clientes que mais compraram  
-- Total de vendas por período  
-- Pedidos por status  
-
----
-
-## 🧠 Aprendizados
+## Aprendizados
 
 - Modelagem de banco de dados orientada a negócio  
 - Normalização  
@@ -99,15 +48,15 @@ Algumas queries desenvolvidas nos projetos:
 
 ---
 
-## 📜 Certificação
+## Certificação
 
 Certificado obtido ao final do curso:
 
-📎 *[Adicionar aqui o certificado]*
+*[Adicionar aqui o certificado]*
 
 ---
 
-## 🚀 Próximos Passos
+## Próximos Passos
 
 - Integração com Python para análise de dados  
 - Uso de ferramentas como Power BI  
