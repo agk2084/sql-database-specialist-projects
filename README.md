@@ -28,13 +28,13 @@ Desenvolver habilidades em banco de dados através de projetos práticos, inclui
 
 ## Projetos a serem desenvolvidos
 
-# Projeto 1 — Fundamentos de Banco de Dados
-# Projeto 2 — Modelagem de Dados (DER)
-# Projeto 3 — Banco de Dados de E-commerce
-# Projeto 4 — Consultas SQL
-# Projeto 5 — Consultas Avançadas
-# Projeto 6 — MySQL na Prática
-# Projeto 7 — Transações e Controle
+- Projeto 1 — Fundamentos de Banco de Dados
+- Projeto 2 — Modelagem de Dados (DER)
+- Projeto 3 — Banco de Dados de E-commerce
+- Projeto 4 — Consultas SQL
+- Projeto 5 — Consultas Avançadas
+- Projeto 6 — MySQL na Prática
+- Projeto 7 — Transações e Controle
 
 ---
 
